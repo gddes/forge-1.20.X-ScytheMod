@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "## ",
+    "#  "
+  ],
+  "key": {
+    "#": {
+      "item": "scythe_mod:decrepit_handle"
+    },
+    "X": {
+      "item": "scythe_mod:corrupt_ingot"
+    }
+  },
+  "result": {
+    "item": "scythe_mod:scythe_harvest"
+  }
+}

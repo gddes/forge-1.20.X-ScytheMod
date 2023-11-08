@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "scythe_mod:item/decrepit_handle"
+  }
+}

@@ -18,6 +18,9 @@ public class ModCreativeModTabs {
                     .title(Component.translatable("creativetab.scythe_tab"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.CORRUPT_INGOT.get());
+                        pOutput.accept(ModItems.DECREPIT_HANDLE.get());
+                        pOutput.accept(ModItems.SCYTHE_HARVEST.get());
+
                     })
                     .build());
     public static void register(IEventBus eventBus) {
